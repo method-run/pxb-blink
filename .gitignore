@@ -1,0 +1,16 @@
+/node_modules/
+/lib/
+/test/
+custom-elements.json
+# Mac
+.DS_Store
+# top level source
+pxb-blink.js
+pxb-blink.js.map
+pxb-blink.d.ts
+pxb-blink.d.ts.map
+# Commented out because it's actually needed for docs
+# <original>
+# only generated for size check
+# pxb-blink.bundled.js
+# </original>
